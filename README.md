@@ -1,2 +1,2 @@
-# payfit.github.io
+# legal.github.io
 for test purpose
